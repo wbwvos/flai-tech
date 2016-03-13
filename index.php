@@ -29,7 +29,7 @@
 
           <div class="masthead clearfix">
             <div class="inner">
-              <h3 class="masthead-brand">Flai Technologies</h3>
+              <h3 class="masthead-brand"><span style='font-size:60px'>Flai</span> <span style='font-size:20px'>Technologies</span></h3>
               <nav>
                 <ul class="nav masthead-nav">
                   <li class="active"><a href="#">Home</a></li>
